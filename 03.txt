@@ -1,0 +1,5 @@
+Amex	10.0
+Cash	10.0
+Discover	8.0
+MasterCard	9.0
+Visa	13.0
