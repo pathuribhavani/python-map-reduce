@@ -14,7 +14,7 @@ for line in s:
       r.write(thisKey + '\t' + str(thisValue)+'\n')
 
     # start over when changing keys
-    thisKey = store 
+    thisKey = paymentType 
     thisValue = 0.0
   
   # apply the aggregation function
